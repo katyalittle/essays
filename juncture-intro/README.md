@@ -40,4 +40,4 @@ Isn't it so awesome. It is called ==Saturn Devouring His Son=={Q1150997} (maybe)
 
 ## So anyways look at this map too
 
-.ve-map Q2344241 zoom=17
+.ve-map Q2344241 zoom=16 left marker
