@@ -33,3 +33,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 .ve-media wc:Saturn_Devouring_His_Son.jpg right
 
 Isn't it so awesome. It is called ==Saturn Devouring His Son=={Q1150997} (maybe).
+
+==This one=={It is called "Work is Always Rewarding".} is also very cool.
+
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/297918 left
