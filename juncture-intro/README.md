@@ -1,3 +1,5 @@
+.ve-header sticky "So cool and awesome" logo=https://upload.wikimedia.org/wikipedia/commons/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg wc:Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg
+
 # Juncture Intro
 
 # Hello, Juncture
@@ -30,4 +32,4 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 .ve-media wc:Saturn_Devouring_His_Son.jpg right
 
-Isn't it so awesome. It is called ==Saturn Devouring His Son=={Q1150997} (maybe). 
+Isn't it so awesome. It is called ==Saturn Devouring His Son=={Q1150997} (maybe).
