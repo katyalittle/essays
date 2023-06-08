@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "brother he's chewing",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/9a2309b7a1115bbb72692d8077768ded99ce90facabef17e2d88dea804c45d75",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:117.08378601074219,209.6474609375,677.8786773681641,609.55419921875"
+      },
+      "id": "9a2309b7"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0e97989e"
+  }
+]
