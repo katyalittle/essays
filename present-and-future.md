@@ -11,7 +11,7 @@ Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu
 ## Prevalence of nuclear power globally
 
 .ve-map 
-  - plants.geojson layer="Label for Layer"
+- geojson=https://github.com/katyalittle/essays/blob/2cb6dd3b55d458cb7bf1e315d510458b5fd8bfe6/plants.geojson layer="Label for Layer"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim blandit volutpat. Velit dignissim sodales ut eu sem integer vitae justo eget. Quisque id diam vel quam elementum pulvinar etiam non quam. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet justo donec enim diam vulputate ut. Dictum fusce ut placerat orci nulla pellentesque. Bibendum arcu vitae elementum curabitur vitae. Ipsum faucibus vitae aliquet nec ullamcorper. Gravida quis blandit turpis cursus in hac habitasse platea.
 
