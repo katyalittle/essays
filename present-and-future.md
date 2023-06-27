@@ -1,2 +1,2 @@
-# Present And Future.md
-
+.ve-header sticky "The Present and Future of Nuclear Power"
+logo=
