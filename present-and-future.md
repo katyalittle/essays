@@ -14,9 +14,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu turpis egestas. Lorem dolor sed viverra ipsum nunc. Mi eget mauris pharetra et ultrices neque ornare. Non diam phasellus vestibulum lorem sed risus ultricies. Condimentum vitae sapien pellentesque habitant. Tempus quam pellentesque nec nam aliquam sem. Ultricies integer quis auctor elit sed vulputate mi sit amet. Turpis massa sed elementum tempus egestas sed sed. Sit amet nulla facilisi morbi tempus iaculis. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
 
-## Modern-day applications of nuclear power
+## Modern-day applications of nuclear power {.cards}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi leo urna molestie at elementum. Faucibus purus in massa tempor nec. Leo integer malesuada nunc vel. Mi quis hendrerit dolor magna. Id eu nisl nunc mi. Dui faucibus in ornare quam viverra orci sagittis. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Quisque id diam vel quam. Varius morbi enim nunc faucibus a. Commodo viverra maecenas accumsan lacus vel. Elit scelerisque mauris pellentesque pulvinar. Quam id leo in vitae turpis massa. Aenean pharetra magna ac placerat vestibulum lectus mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eu volutpat odio facilisis mauris.
+### Lorem ipsum 
+dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+### Morbi leo 
+urna molestie at elementum. Faucibus purus in massa tempor nec. Leo integer malesuada nunc vel. Mi quis hendrerit dolor magna. Id eu nisl nunc mi. Dui faucibus in ornare quam viverra orci sagittis. 
+
+### Turpis egestas 
+sed tempus urna et pharetra pharetra massa massa. Quisque id diam vel quam. Varius morbi enim nunc faucibus a. Commodo viverra maecenas accumsan lacus vel. Elit scelerisque mauris pellentesque pulvinar. Quam id leo in vitae turpis massa. Aenean pharetra magna ac placerat vestibulum lectus mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eu volutpat odio facilisis mauris.
 
 ## Issues with modern nuclear power
 
