@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu turpis egestas. Lorem dolor sed viverra ipsum nunc. Mi eget mauris pharetra et ultrices neque ornare. Non diam phasellus vestibulum lorem sed risus ultricies. Condimentum vitae sapien pellentesque habitant. Tempus quam pellentesque nec nam aliquam sem. Ultricies integer quis auctor elit sed vulputate mi sit amet. Turpis massa sed elementum tempus egestas sed sed. Sit amet nulla facilisi morbi tempus iaculis. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
 
+.ve-media https://ourworldindata.org/grapher/primary-energy-share-nuclear-renewables
+
 ## Modern-day applications of nuclear power {.cards}
 
 ### Lorem ipsum 
