@@ -15,6 +15,8 @@ Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim blandit volutpat. Velit dignissim sodales ut eu sem integer vitae justo eget. Quisque id diam vel quam elementum pulvinar etiam non quam. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet justo donec enim diam vulputate ut. Dictum fusce ut placerat orci nulla pellentesque. Bibendum arcu vitae elementum curabitur vitae. Ipsum faucibus vitae aliquet nec ullamcorper. Gravida quis blandit turpis cursus in hac habitasse platea.
 
+.ve-iframe https://ourworldindata.org/explorers/energy?time=latest&facet=none&country=~OWID_WRL&hideControls=false&Total+or+Breakdown=Select+a+source&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&Select+a+source=Nuclear
+
 Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu turpis egestas. Lorem dolor sed viverra ipsum nunc. Mi eget mauris pharetra et ultrices neque ornare. Non diam phasellus vestibulum lorem sed risus ultricies. Condimentum vitae sapien pellentesque habitant. Tempus quam pellentesque nec nam aliquam sem. Ultricies integer quis auctor elit sed vulputate mi sit amet. Turpis massa sed elementum tempus egestas sed sed. Sit amet nulla facilisi morbi tempus iaculis. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
 
 ## Modern-day applications of nuclear power {.cards}
