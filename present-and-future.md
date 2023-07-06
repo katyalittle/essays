@@ -46,11 +46,14 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 #### Waste transportation and storage
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
 
+#### Power plants and weapons
+The same materials used to power nuclear reactors-- isotopes like uranium-235 and plutonium-239-- can be used in the creation of nuclear weapons. Critics of nuclear power point to concerns that countries with uranium refining and plutonium reprocessing capabilities to make these isotopes usable for nuclear fuel can also utilize them in the development of nuclear weapons, reversing previous advancements in nuclear disarmament.
+
 #### Costs
 Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency.
 
 ## Innovations in nuclear energy generation?
-
+The U.S. nuclear energy industry is dominated by the light water reactor (LWR), a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, 
 
 ## Avoiding disasters
 
