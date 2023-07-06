@@ -62,26 +62,48 @@ Despite the immense risks and downsides of nuclear power, it is ultimately neces
 
 # Works cited
 Baraniuk, Chris. “Could Nuclear Desalination Plants Beat Water Scarcity?” BBC, 21 June 2022, https://www.bbc.com/news/business-61483491.
+
 Chung, Kyeong Woo, et al. “Solvent Extraction, Separation and Recovery of Thorium from Korean Monazite Leach Liquors for Nuclear Industry Applications.” Journal of Industrial and Engineering Chemistry, vol. 83, Mar. 2020, pp. 72–80. DOI.org (Crossref), https://doi.org/10.1016/j.jiec.2019.11.014.
+
 Clemmer, Steve, et al. The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions. Union of Concerned Scientists, Nov. 2018, https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf.
+
 Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks.” Brookings, 1 Mar. 2002, https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/.
+
 EarthTalk. “How Does Cogeneration Provide Heat and Power?” Scientific American, 26 June 2008, https://www.scientificamerican.com/article/how-does-cogeneration-provide-heat-power/.
+
 Fisher, Matt, et al. “The Use of Nuclear Power Beyond Generating Electricity: Non-Electric Applications.” International Atomic Energy Agency, 18 Oct. 2021, https://www.iaea.org/newscenter/news/the-use-of-nuclear-power-beyond-generating-electricity-non-electric-applications.
+
 Ghosh, Padmaparna. “Nuclear Power 101.” Natural Resources Defense Council, 5 Jan. 2022, https://www.nrdc.org/stories/nuclear-power-101#plants.
+
 Guerra, Anthony J., et al. Electric Power Grid and Natural Gas Network Operations and Coordination. Joint Institute for Strategic Energy Analysis, Sept. 2020, https://www.nrel.gov/docs/fy20osti/77096.pdf.
+
 Hori, Masao. “Nuclear Energy for Transportation: Paths through Electricity, Hydrogen and Liquid Fuels.” Progress in Nuclear Energy, vol. 50, no. 2–6, Mar. 2008, pp. 411–16. DOI.org (Crossref), https://doi.org/10.1016/j.pnucene.2007.11.080.
+
 International District Energy Association. “District Heating.” International District Energy Association, https://www.districtenergy.org/topics/district-heating. Accessed 6 July 2023.
+
 International Energy Agency. Net Zero by 2050: A Roadmap for the Global Energy Sector. International Energy Agency, May 2021, https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf.
+
 ---. The Future of Hydrogen: Seizing Today’s Opportunities. International Energy Agency, https://www.iea.org/reports/the-future-of-hydrogen. Accessed 6 July 2023.
 Ipcc. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty. 1st ed., Cambridge University Press, 2022. DOI.org (Crossref), https://doi.org/10.1017/9781009157940.
+
 Khalid, Farrukh, et al. “Co-Production of Hydrogen and Copper from Copper Waste Using a Thermochemical Cu–Cl Cycle.” Energy & Fuels, vol. 32, no. 2, Feb. 2018, pp. 2137–44. DOI.org (Crossref), https://doi.org/10.1021/acs.energyfuels.7b03857.
+
 Lyman, Edwin. “Advanced” Isn’t Always Better: Assessing the Safety, Security, and Environmental Impacts of Non-Light-Water Nuclear Reactors. Union of Concerned Scientists, Mar. 2021, https://www.ucsusa.org/sites/default/files/2021-05/ucs-rpt-AR-3.21-web_Mayrev.pdf.
+
 National Isotope Development Center. “Production Methods.” National Isotope Development Center, https://www.isotopes.gov/production-methods. Accessed 6 July 2023.
+
 Office of Nuclear Energy. “Advantages and Challenges of Nuclear Energy.” Office of Nuclear Energy, 29 Mar. 2021, https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-energy.
+
 Patel, Prachi. “Using Nuclear Energy to Produce Synthetic Fuels.” Institute of Electrical and Electronics (IEEE) Engineers Spectrum, 6 Apr. 2023, https://spectrum.ieee.org/synthetic-fuel#toggle-gdpr.
+
 Potter, Brian. “Why Does Nuclear Power Plant Construction Cost So Much?” Institute for Progress, 1 May 2023, https://progress.institute/nuclear-power-plant-construction-costs/#conclusion.
+
 Rosen, Marc A. “Nuclear Energy: Non-Electric Applications.” European Journal of Sustainable Development Research, vol. 5, no. 1, Nov. 2020, p. em0147. DOI.org (Crossref), https://doi.org/10.29333/ejosdr/9305.
+
 Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the Pacific. International Atomic Energy Agency, 2012, https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/RBAP-HDR-2012-APHDR-TBP-18.pdf.
+
 Union of Concerned Scientists. “How Do Nuclear Weapons Work?” Union of Concerned Scientists, 12 July 2018, https://www.ucsusa.org/resources/how-nuclear-weapons-work.
+
 United States Environmental Protection Agency. “Renewable Industrial Process Heat.” United States Environmental Protection Agency, 6 Sept. 2022, https://www.epa.gov/rhc/renewable-industrial-process-heat.
+
 World Nuclear Industry Status Report. World Nuclear Industry: Status Report 2022. Oct. 2022, https://www.worldnuclearreport.org/IMG/pdf/wnisr2022-v3-hr.pdf.
