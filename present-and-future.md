@@ -2,7 +2,7 @@
 wc:Advanced_Test_Reactor.jpg
 
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas integer eget aliquet nibh praesent tristique. Bibendum at varius vel pharetra. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper.*
+
 
 ## Nuclear Power and geopolitics
 
