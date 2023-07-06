@@ -53,6 +53,8 @@ Waste products from other industries, such as thorium and copper, have the poten
 
 ## Issues with modern nuclear power {.cards}
 
+blah blah
+
 ### Safety concerns
 blah blah
 
