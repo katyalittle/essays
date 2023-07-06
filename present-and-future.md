@@ -58,8 +58,6 @@ The U.S. nuclear energy industry is dominated by the light water reactor (LWR), 
 ## Social media and disaster tourism
 
 ## A future for nuclear power
-Despite the immense risks and downsides of nuclear power, it is ultimately necessary as an essential part of the global fight against climate change. Groups like the United Nations Development Programme, International Energy Agency, Union of Concerned Scientists have all endorsed nuclear power as source of efficient and reliable energy that, while posing potential dangers, is key to a successful transition from our current energy economy to one that produces net zero or net negative emissions.
-
-.ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
+Despite the immense risks and downsides of nuclear power, it is ultimately necessary to the global fight against climate change. Groups like the United Nations Development Programme, International Energy Agency, Union of Concerned Scientists have all endorsed nuclear power as source of efficient and reliable energy that, while posing potential dangers, is key to a successful transition from our current energy economy to one that produces net zero or net negative emissions. With this in mind, it is an essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies.
 
 # Works cited
