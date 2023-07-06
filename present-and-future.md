@@ -9,47 +9,15 @@ wc:Advanced_Test_Reactor.jpg
 
 
 
-
+### Geopolitics {.cards}
 
 #### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
 
 
-For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs.
 
-However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim blandit volutpat. Velit dignissim sodales ut eu sem integer vitae justo eget. Quisque id diam vel quam elementum pulvinar etiam non quam. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet justo donec enim diam vulputate ut. Dictum fusce ut placerat orci nulla pellentesque. Bibendum arcu vitae elementum curabitur vitae. Ipsum faucibus vitae aliquet nec ullamcorper. Gravida quis blandit turpis cursus in hac habitasse platea.
 
-There might be two reasons behind this.
-
-1.Western Europe’s Nuclear Need
-
-Germany : All the NPPs are shut down (most recently by April 2023).
-
-Italy :  After 1986 rejected all plans.
-         In 2007 Was thinking about a restoration attempt 
-         In 2011 banned the use of nuclear power as the result of a referendum.
-
-Austria : In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated. 
-          In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants 
-          is still being operated.
-
-Switzerland :  In 1990, held a referendum, citizens supported a ten-year moratorium on building new NPPs, but the 
-               four existing plants continued in operation. 
-               In 2017, the Swiss government rejected the construction of new NPPs.
-
-UK : have plans to close all the NPPs by 2035.
-
-Belgium : have plans to close most of the NPPs by 2025, others by 2035.
-
-France :  68% of the country's annual electricity generation comes from NPPs.
-
-Netherlands : one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant
-
-Ireland : In 1999, electricity produced by nuclear fission was banned.
-
-2.Eastern Europe’s Nuclear Conflicts
-
-
-
+Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu turpis egestas. Lorem dolor sed viverra ipsum nunc. Mi eget mauris pharetra et ultrices neque ornare. Non diam phasellus vestibulum lorem sed risus ultricies. Condimentum vitae sapien pellentesque habitant. Tempus quam pellentesque nec nam aliquam sem. Ultricies integer quis auctor elit sed vulputate mi sit amet. Turpis massa sed elementum tempus egestas sed sed. Sit amet nulla facilisi morbi tempus iaculis. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
 
 ## Prevalence of nuclear power globally
 
@@ -87,7 +55,7 @@ Waste products from other industries, such as thorium and copper, have the poten
 While nuclear power is an efficient power source with a large number of applications, it has some significant issues that have generated pushback against its use.
 
 ### Safety concerns
-blah blah
+Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. 
 
 ### Waste transportation and storage
 blah blah
