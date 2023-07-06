@@ -49,7 +49,7 @@ Nuclear power generation produces small, but not insignificant, amounts of radio
 #### Costs
 Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency.
 
-## Innovations in nuclear energy generation
+## Innovations in nuclear energy generation?
 
 
 ## Avoiding disasters
@@ -57,3 +57,5 @@ Nuclear power plants are expensive to build, with initial investments costing se
 .ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 ## Social media and disaster tourism
+
+# Works cited
