@@ -108,7 +108,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 *(map of exclusion zones around chornobyl and fukushima?)*
 
 #### Waste transportation and storage
-.ve-media wc:Transport-UNF-Japan.jpg right
+.ve-media width=50% wc:Transport-UNF-Japan.jpg right
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
 
 #### Power plants and weapons
