@@ -55,10 +55,12 @@ Waste products from other industries, such as thorium and copper, have the poten
 While nuclear power is an efficient power source with a large number of applications, it has some significant issues that have generated pushback against its use.
 
 #### Safety concerns
-Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. 
+Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. The nature of such accidents has also prompted concerns about nuclear power plants as military or terrorist targets.
 
 #### Waste transportation and storage
 blah blah
+
+#### Disarmament
 
 #### Costs
 blah blah
