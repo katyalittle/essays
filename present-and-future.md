@@ -52,10 +52,11 @@ The same materials used to power nuclear reactors-- isotopes like uranium-235 an
 #### Costs
 Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency.
 
-## Innovations in nuclear energy generation?
-The U.S. nuclear energy industry is dominated by the light water reactor (LWR), a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, 
+## Innovations in nuclear energy generation
+The U.S. nuclear energy industry is dominated by the light water reactor (LWR), a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, several international NGOs have released reports concluding that these reactors do not offer significantly improved-- and sometimes even worse-- safety and efficiency capabilities compared to those of existing LWR designs.
 
 ## Avoiding disasters
+
 
 .ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
