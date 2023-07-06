@@ -53,27 +53,19 @@ While nuclear power is an efficient power source with a large number of applicat
 #### Safety concerns
 Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. The nature of such accidents has also prompted concerns about nuclear power plants as military or terrorist targets.
 
-*(iframe showing leaflet map of exclusion zones around chornobyl and fukushima?)*
+*(map of exclusion zones around chornobyl and fukushima?)*
 
 #### Waste transportation and storage
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
-
-#### Disarmament
-blah blah
 
 #### Costs
 blah blah
 
 ## Innovations in nuclear energy generation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi leo urna molestie at elementum. Faucibus purus in massa tempor nec. Leo integer malesuada nunc vel. Mi quis hendrerit dolor magna. Id eu nisl nunc mi. Dui faucibus in ornare quam viverra orci sagittis. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Quisque id diam vel quam. Varius morbi enim nunc faucibus a. Commodo viverra maecenas accumsan lacus vel. Elit scelerisque mauris pellentesque pulvinar. Quam id leo in vitae turpis massa. Aenean pharetra magna ac placerat vestibulum lectus mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eu volutpat odio facilisis mauris.
-
-Eget aliquet nibh praesent tristique magna sit amet purus. Nec nam aliquam sem et tortor. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Suspendisse in est ante in nibh mauris cursus mattis. Mauris in aliquam sem fringilla ut. In hendrerit gravida rutrum quisque non tellus orci. Amet luctus venenatis lectus magna. Id volutpat lacus laoreet non curabitur gravida. Ac auctor augue mauris augue neque gravida in fermentum et. Sed risus ultricies tristique nulla. In metus vulputate eu scelerisque felis imperdiet. Dictum varius duis at consectetur lorem donec massa sapien faucibus. 
 
 ## Avoiding disasters
 
 .ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 ## Social media and disaster tourism
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi leo urna molestie at elementum. Faucibus purus in massa tempor nec. Leo integer malesuada nunc vel. Mi quis hendrerit dolor magna. Id eu nisl nunc mi. Dui faucibus in ornare quam viverra orci sagittis. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Quisque id diam vel quam. Varius morbi enim nunc faucibus a. Commodo viverra maecenas accumsan lacus vel. Elit scelerisque mauris pellentesque pulvinar. Quam id leo in vitae turpis massa. Aenean pharetra magna ac placerat vestibulum lectus mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eu volutpat odio facilisis mauris.
