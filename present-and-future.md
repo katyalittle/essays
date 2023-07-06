@@ -141,6 +141,8 @@ Despite the immense risks and downsides of nuclear power, it is ultimately neces
 
 [^8]: Guerra, Anthony J., et al. Electric Power Grid and Natural Gas Network Operations and Coordination. Joint Institute for Strategic Energy Analysis, Sept. 2020, https://www.nrel.gov/docs/fy20osti/77096.pdf.
 
+[^8.5]: Hannah Ritchie, Max Roser and Pablo Rosado (2022) - "Energy". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy'
+
 [^9]: Hori, Masao. “Nuclear Energy for Transportation: Paths through Electricity, Hydrogen and Liquid Fuels.” Progress in Nuclear Energy, vol. 50, no. 2–6, Mar. 2008, pp. 411–16. DOI.org (Crossref), https://doi.org/10.1016/j.pnucene.2007.11.080.
 
 [^10]: International District Energy Association. “District Heating.” International District Energy Association, https://www.districtenergy.org/topics/district-heating. Accessed 6 July 2023.
