@@ -110,7 +110,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 #### Waste transportation and storage
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
 
-.ve-media wc:Transport-UNF-Japan.jpg right
+.ve-media width=20% wc:Transport-UNF-Japan.jpg right
 
 #### Power plants and weapons
 The same materials used to power nuclear reactors-- isotopes like uranium-235 and plutonium-239-- can be used in the creation of nuclear weapons. Critics of nuclear power point to concerns that countries with uranium refining and plutonium reprocessing capabilities to make these isotopes usable for nuclear fuel can also utilize them in the development of nuclear weapons, reversing previous advancements in nuclear disarmament.
