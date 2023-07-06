@@ -3,7 +3,7 @@ wc:Advanced_Test_Reactor.jpg
 
 ## Nuclear Power and geopolitics
 
-### Geopolitics {.cards}
+### Geopolitics
 
 #### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?
 
