@@ -47,7 +47,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
 
 #### Costs
-blah blah
+Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency.
 
 ## Innovations in nuclear energy generation
 
