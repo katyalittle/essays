@@ -8,13 +8,6 @@
 
 
 
-
-### Geopolitics {.cards}
-
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
-
-
-
 ## Nuclear Power and geopolitics
 
 
