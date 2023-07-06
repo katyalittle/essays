@@ -14,69 +14,10 @@ wc:Advanced_Test_Reactor.jpg
 #### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
 
 
-## Nuclear Power and geopolitics
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim blandit volutpat. Velit dignissim sodales ut eu sem integer vitae justo eget. Quisque id diam vel quam elementum pulvinar etiam non quam. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet justo donec enim diam vulputate ut. Dictum fusce ut placerat orci nulla pellentesque. Bibendum arcu vitae elementum curabitur vitae. Ipsum faucibus vitae aliquet nec ullamcorper. Gravida quis blandit turpis cursus in hac habitasse platea.
 
-
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
-
-For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs.
-
-However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future.
-
-There might be two reasons behind this.
-
-1.Western Europe’s Nuclear Need
-2.Eastern Europe’s Nuclear Conflicts
-
-Germany : All the NPPs are shut down (most recently by April 2023).
-
-Italy :  After 1986 rejected all plans.
-         In 2007 Was thinking about a restoration attempt 
-         In 2011 banned the use of nuclear power as the result of a referendum.
-
-Austria : In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated. 
-          In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants 
-          is still being operated.
-
-Switzerland :  In 1990, held a referendum, citizens supported a ten-year moratorium on building new NPPs, but the 
-               four existing plants continued in operation. 
-               In 2017, the Swiss government rejected the construction of new NPPs.
-
-UK : have plans to close all the NPPs by 2035.
-
-Belgium : have plans to close most of the NPPs by 2025, others by 2035.
-
-France :  68% of the country's annual electricity generation comes from NPPs.
-
-Netherlands : one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant
-
-Ireland : In 1999, electricity produced by nuclear fission was banned.
-
-
-Russia : In 1987–2000, stopped building NPPs.
-         In the twenty-first century, Russia resumed the use of nuclear energy, Rosatom corporation consists of 360 
-         enterprises and currently building NPPs in twelve countries.
-
-Belarus : has returned to the use of NPPs. 
-          In 2021, the first Belarusian NPP operated.
-          By 2023, another NPP will start operating.
-
-Lithuania : closed its NPP (the sole source of 70 percent of its electricity)
-
-Poland : In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
-         proposal of own NPP in operation by 2030.
-
-The Czech Republic : has six reactors in operation and more in future.
-
-Slovakia : active four nuclear reactors.
-           In 2004, had to close two reactors as a condition of joining the EU.
-
-Ukraine : more than half the electricity produced from NPPs.
-
-
-
-The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy.
+Nibh venenatis cras sed felis eget velit aliquet sagittis id. Adipiscing enim eu turpis egestas. Lorem dolor sed viverra ipsum nunc. Mi eget mauris pharetra et ultrices neque ornare. Non diam phasellus vestibulum lorem sed risus ultricies. Condimentum vitae sapien pellentesque habitant. Tempus quam pellentesque nec nam aliquam sem. Ultricies integer quis auctor elit sed vulputate mi sit amet. Turpis massa sed elementum tempus egestas sed sed. Sit amet nulla facilisi morbi tempus iaculis. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
 
 ## Prevalence of nuclear power globally
 
@@ -137,11 +78,6 @@ Eget aliquet nibh praesent tristique magna sit amet purus. Nec nam aliquam sem e
 
 .ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi leo urna molestie at elementum. Faucibus purus in massa tempor nec. Leo integer malesuada nunc vel. Mi quis hendrerit dolor magna. Id eu nisl nunc mi. Dui faucibus in ornare quam viverra orci sagittis. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Quisque id diam vel quam. Varius morbi enim nunc faucibus a. Commodo viverra maecenas accumsan lacus vel. Elit scelerisque mauris pellentesque pulvinar. Quam id leo in vitae turpis massa. Aenean pharetra magna ac placerat vestibulum lectus mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Eu volutpat odio facilisis mauris.
-
-Eget aliquet nibh praesent tristique magna sit amet purus. Nec nam aliquam sem et tortor. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Suspendisse in est ante in nibh mauris cursus mattis. Mauris in aliquam sem fringilla ut. In hendrerit gravida rutrum quisque non tellus orci. Amet luctus venenatis lectus magna. Id volutpat lacus laoreet non curabitur gravida. Ac auctor augue mauris augue neque gravida in fermentum et. Sed risus ultricies tristique nulla. In metus vulputate eu scelerisque felis imperdiet. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Felis eget velit aliquet sagittis id consectetur purus. Cursus sit amet dictum sit amet justo donec. Et egestas quis ipsum suspendisse. Quam elementum pulvinar etiam non quam lacus suspendisse. Sit amet nulla facilisi morbi tempus iaculis. Lorem mollis aliquam ut porttitor leo. Id ornare arcu odio ut sem nulla.
-
-Dui id ornare arcu odio. At volutpat diam ut venenatis. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Eget sit amet tellus cras adipiscing enim. Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Sit amet massa vitae tortor condimentum. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Etiam erat velit scelerisque in dictum non consectetur. Leo vel fringilla est ullamcorper eget. Quisque egestas diam in arcu cursus euismod. Cursus in hac habitasse platea dictumst quisque sagittis purus. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Euismod in pellentesque massa placerat duis. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi.
 
 ## Social media and disaster tourism
 
