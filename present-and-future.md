@@ -55,11 +55,11 @@ Nuclear power plants are expensive to build, with initial investments costing se
 ## Innovations in nuclear energy generation
 The U.S. nuclear energy industry is dominated by the light water reactor (LWR), a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, several international NGOs have released reports concluding that these reactors do not offer significantly improved-- and sometimes even worse-- safety and efficiency capabilities compared to those of existing LWR designs.
 
-## Avoiding disasters
+## Social media and disaster tourism
 
+## A future for nuclear power
+Despite the immense risks and downsides of nuclear power, it is ultimately necessary as an essential part of the global fight against climate change. Groups like the United Nations Development Programme, International Energy Agency, Union of Concerned Scientists have all endorsed nuclear power as source of efficient and reliable energy that, while posing potential dangers, is key to a successful transition from our current energy economy to one that produces net zero or net negative emissions.
 
 .ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
-
-## Social media and disaster tourism
 
 # Works cited
