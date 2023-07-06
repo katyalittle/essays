@@ -1,8 +1,21 @@
-.ve-header sticky "The Present and Future of Nuclear Power Globally" wc:Advanced_Test_Reactor.jpg
+.ve-header sticky "The Present and Future of Nuclear Power Globally" wc:Advanced_Test_Reactor.jpg right
+
+wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg left
+
+
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas integer eget aliquet nibh praesent tristique. Bibendum at varius vel pharetra. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper.*
 
 ## Nuclear Power and geopolitics
+
+
+
+
+### Geopolitics {.cards}
+
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis risus sed vulputate odio ut enim blandit volutpat. Velit dignissim sodales ut eu sem integer vitae justo eget. Quisque id diam vel quam elementum pulvinar etiam non quam. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet justo donec enim diam vulputate ut. Dictum fusce ut placerat orci nulla pellentesque. Bibendum arcu vitae elementum curabitur vitae. Ipsum faucibus vitae aliquet nec ullamcorper. Gravida quis blandit turpis cursus in hac habitasse platea.
 
