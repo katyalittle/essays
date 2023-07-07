@@ -117,7 +117,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 
 #### Waste transportation and storage
 .ve-media width=70% wc:Transport-UNF-Japan.jpg caption="Transport of nuclear waste" right
-Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years-- longer than human civilization has been around.
+Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years-- longer than human civilization has been or may be around.
 
 #### Power plants and weapons
 .ve-media width=70% wc:IAEA_Uranium_Fuel_Bank_(2).jpg caption="IAEA uranium fuel bank" right
