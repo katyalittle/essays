@@ -102,7 +102,7 @@ The combined heat and electricity produced by a nuclear reactor from an onshore 
 While many renewable energy sources can produce the heat needed for low-temperature industrial process heating, nuclear power is able to provide the high temperatures necessary for other industrial processes.
 
 ### Radioisotope production
-.ve-media wc:Ct-scan.jpg
+.ve-media wc:Scyntygrafia.JPG
 Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors.
 
 ### Utilizing waste products
