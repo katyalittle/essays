@@ -132,7 +132,7 @@ The U.S. nuclear energy industry is dominated by the ==light water reactor (LWR)
 ## Social media and disaster tourism
 
 ## A future for nuclear power
-.ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right nocaption
+.ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right no-caption
 Despite the immense risks and downsides of nuclear power, it is ultimately necessary in the global fight against climate change. Nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. With this in mind, it is essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies (without letting it crowd out more preferable renewable energy sources like solar and wind).
 
 # Works cited
