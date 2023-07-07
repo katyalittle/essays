@@ -153,7 +153,8 @@ Despite the immense risks and downsides of nuclear power, it is ultimately neces
 [^11]: International Energy Agency. Net Zero by 2050: A Roadmap for the Global Energy Sector. International Energy Agency, May 2021, https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf.
 
 [^12]: ---. The Future of Hydrogen: Seizing Today’s Opportunities. International Energy Agency, https://www.iea.org/reports/the-future-of-hydrogen. Accessed 6 July 2023.
-Ipcc. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty. 1st ed., Cambridge University Press, 2022. DOI.org (Crossref), https://doi.org/10.1017/9781009157940.
+
+[^12.5]: Ipcc. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty. 1st ed., Cambridge University Press, 2022. DOI.org (Crossref), https://doi.org/10.1017/9781009157940.
 
 [^13]: Khalid, Farrukh, et al. “Co-Production of Hydrogen and Copper from Copper Waste Using a Thermochemical Cu–Cl Cycle.” Energy & Fuels, vol. 32, no. 2, Feb. 2018, pp. 2137–44. DOI.org (Crossref), https://doi.org/10.1021/acs.energyfuels.7b03857.
 
