@@ -1,9 +1,9 @@
 .ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg 
 
-## Nuclear Power and geopolitics
-### {.tabs style=height : 600px}
+### Nuclear Power and geopolitics
 
-### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
+
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1][^5][^10][^11][^17][^22][^25][^30][^33][^47][^53][^54][^55]
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17][^26][^35][^36][^40][^41][^42][^44][^47][^48][^53][^60]If we look back some resources, it says - 
 ##### Germany {href=#} 
