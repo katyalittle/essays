@@ -2,149 +2,51 @@
 
 ## Nuclear Power and geopolitics
 
-  
+### {.tabs style=height : 600px}
 
- ### {.tabs style=height : 600px} 
-
-  
-
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#} 
-
-  
-
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. 
-
-  
-
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. If we look back some resources, it says - 
-
- {.cards} 
-
-Germany {href=#} 
-
+##### Germany {href=#} 
 All the NPPs are shut down (most recently by April 2023). 
-
-  
-
-Italy {href=#} 
-
+##### Italy {href=#} 
 After 1986 rejected all plans. 
-
-         In 2007 Was thinking about a restoration attempt  
-
-         In 2011 banned the use of nuclear power as the result of a referendum. 
-
-  
-
-Austria {href=#}  
-
+In 2007 Was thinking about a restoration attempt  
+In 2011 banned the use of nuclear power as the result of a referendum. 
+##### Austria {href=#}  
 In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated.  
-
-          In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants  
-
-          is still being operated. 
-
-  
-
-Switzerland {href=#} 
-
- In 1990, held a referendum, citizens supported a ten-year moratorium on building new NPPs, but the  
-
-               four existing plants continued in operation.  
-
-               In 2017, the Swiss government rejected the construction of new NPPs. 
-
-  
-
-UK {href=#}  
-
+In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants is still being operated. 
+##### Switzerland {href=#} 
+In 1990, held a referendum, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
+##### UK {href=#}  
 have plans to close all the NPPs by 2035. 
-
-  
-
-Belgium {href=#}  
-
+##### Belgium {href=#}  
 have plans to close most of the NPPs by 2025, others by 2035. 
-
-  
-
-France {href=#} 
-
- 68% of the country's annual electricity generation comes from NPPs. 
-
-  
-
-Netherlands {href=#}  
-
+##### France {href=#} 
+68% of the country's annual electricity generation comes from NPPs. 
+##### Netherlands {href=#}  
 one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
-
-  
-
-Ireland {href=#}  
-
+##### Ireland {href=#}  
 In 1999, electricity produced by nuclear fission was banned. 
-
-  
-
-  
-
-Russia {href=#}  
-
+##### Russia {href=#}  
 In 1987–2000, stopped building NPPs. 
-
-         In the twenty-first century, Russia resumed the use of nuclear energy, Rosatom corporation consists of 360  
-
-         enterprises and currently building NPPs in twelve countries. 
-
-  
-
-Belarus {href=#}  
-
+In the twenty-first century, Russia resumed the use of nuclear energy, Rosatom corporation consists of 360 enterprises and currently building NPPs in twelve countries. 
+##### Belarus {href=#}  
 has returned to the use of NPPs.  
-
-          In 2021, the first Belarusian NPP operated. 
-
-          By 2023, another NPP will start operating. 
-
-  
-
-Lithuania {href=#}  
-
-closed its NPP (the sole source of 70 percent of its electricity) 
-
-  
-
-Poland {href=#}  
-
-In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power.  
-
-         proposal of own NPP in operation by 2030. 
-
-  
-
-The Czech Republic {href=#}  
-
-has six reactors in operation and more in future. 
-
-  
-
-Slovakia {href=#}  
-
-active four nuclear reactors. 
-
-           In 2004, had to close two reactors as a condition of joining the EU. 
-
-  
-
-Ukraine {href=#}  
-
-more than half the electricity produced from NPPs. 
-
-  
-
-  
-
-  
+In 2021, the first Belarusian NPP operated. 
+By 2023, another NPP will start operating. 
+##### Lithuania {href=#}  
+Closed its NPP (the sole source of 70 percent of its electricity) 
+##### Poland {href=#}  
+In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
+Proposal of own NPP in operation by 2030. 
+##### Czech Republic {href=#}  
+Has six reactors in operation and more in future. 
+##### Slovakia {href=#}  
+Active four nuclear reactors. 
+In 2004, had to close two reactors as a condition of joining the EU. 
+##### Ukraine {href=#}  
+More than half the electricity produced from NPPs. 
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. 
 
