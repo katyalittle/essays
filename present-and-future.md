@@ -268,7 +268,7 @@ Despite the immense risks and downsides of nuclear power, it is ultimately neces
 [^23]: Ghosh, Padmaparna. “Nuclear Power 101.” Natural Resources Defense Council, 5 Jan. 2022, https://www.nrdc.org/stories/nuclear-power-101#plants.
 [^24]: Guerra, Anthony J., et al. Electric Power Grid and Natural Gas Network Operations and Coordination. Joint Institute for Strategic Energy Analysis, Sept. 2020, https://www.nrel.gov/docs/fy20osti/77096.pdf.
 [^25]: Guyer, Jonathan. “Why Some Countries Don’t Want to Pick a Side in Russia’s War in Ukraine.” Vox, 9 June 2022, https://www.vox.com/23156512/russia-ukraine-war-global-south-nonaligned-movement.
-[^26] Hatch, Michael T. Politics and Nuclear Power: Energy Policy in Western Europe. University Press of Kentucky, 1986, https://tripod.brynmawr.edu/permalink/01TRI_INST/1ijd0uu/alma991001438689704921.
+[^26]: Hatch, Michael T. Politics and Nuclear Power: Energy Policy in Western Europe. University Press of Kentucky, 1986, https://tripod.brynmawr.edu/permalink/01TRI_INST/1ijd0uu/alma991001438689704921.
 [^27]: Hori, Masao. “Nuclear Energy for Transportation: Paths through Electricity, Hydrogen and Liquid Fuels.” Progress in Nuclear Energy, vol. 50, no. 2–6, 2008, pp. 411–16, https://doi.org/10.1016/j.pnucene.2007.11.080.
 [^28]: International District Energy Association. “District Heating.” International District Energy Association, https://www.districtenergy.org/topics/district-heating. Accessed 6 July 2023.
 [^29]: International Energy Agency. Net Zero by 2050: A Roadmap for the Global Energy Sector. International Energy Agency, May 2021, https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf.
