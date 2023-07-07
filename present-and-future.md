@@ -94,6 +94,7 @@ Nuclear power can be utilized to produce hydrogen, an increasingly important ing
 District heating systems, which allow buildings in an area to be heated from the steam or heated water produced at one or multiple nearby power plants, can use that produced by nuclear power plants.
 
 ### Desalination
+![]https://upload.wikimedia.org/wikipedia/commons/0/0d/District_heating.gif
 The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater.
 
 ### Industrial process heating
