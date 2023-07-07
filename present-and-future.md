@@ -46,9 +46,9 @@ In 2004, had to close two reactors as a condition of joining the EU.
 ##### Ukraine {href=#}  
 More than half the electricity produced from NPPs. 
 
-The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. 
+### Europe and nuclear power
 
-### Graphics
+The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. 
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
 
