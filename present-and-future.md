@@ -108,7 +108,8 @@ While nuclear power is an efficient power source with a large number of applicat
 .ve-media width=70% wc:Chornobyl_radiation_map.jpg right
 Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale.
 
-*(map of exclusion zones around chornobyl and fukushima?)*
+**How dangerous is nuclear power compared to other sources of energy?** Accounting for the direct and indirect deaths caused by the accidents at Chornobyl and Fukushima, nuclear power still comes out to be among the far safer sources of energy in use today.
+.ve-iframe width=70% height=600px https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 #### Waste transportation and storage
 .ve-media width=70% wc:Transport-UNF-Japan.jpg right
