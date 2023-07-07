@@ -4,8 +4,8 @@
 
 
 #### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
-For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1][^5][^10][^11][^17][^22][^25][^30][^33][^47][^53][^54][^55]
-However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17][^26][^35][^36][^40][^41][^42][^44][^47][^48][^53][^60]If we look back some resources, it says - 
+For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
+However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] If we look back some resources, it says - 
 ##### Germany {href=#} 
 All the NPPs are shut down (most recently by April 2023). 
 ##### Italy {href=#} 
@@ -49,7 +49,7 @@ More than half the electricity produced from NPPs.
 
 #### Europe and nuclear power
 
-The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10][^12][^22][^25][^26][^35][^36][^40][^41][^42][^44][^47][^48][^53][^60]
+The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
 
@@ -58,17 +58,17 @@ The Chernobyl disaster majorly impacted on Europe's perception of nuclear power.
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa Aleksievich, Svetlana. Voices from Chernobyl: The Oral History of a Nuclear Disaster. Translated by 
 
 #### Is this the reason why Asia is not interested in the Russian-Ukrainian war?
-The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. [^11][^14][^22][^25][^53][^54][^55]
+The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. [^11] [^14] [^22] [^25] [^53] [^54] [^55]
 
 #### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath.
 
-As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178}  for the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. [^3][^4][^8][^16][^20][^21][^37][^38]
+As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178}  for the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. [^3] [^4] [^8] [^16] [^20] [^21] [^37] [^38]
 
 #### Ukraine’s Dam collapse
-The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region is indicating a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^7][^10]
+The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region is indicating a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^7] [^10]
 
 ## Prevalence of nuclear power globally
-While a significant portion of the world’s energy is generated by nuclear power, its use has been declining since a peak in the early 2000s, driven by a combination of political opposition and the rise of cheap energy sources such as natural gas. While the global share of ==renewables=={Q12705} has very recently started to catch up, this decline in the use of nuclear power has been compensated for primarily using fossil fuels. [^10][^13][^19][^23][^29][^30][^42][^44][^51][^52][^54][^59]
+While a significant portion of the world’s energy is generated by nuclear power, its use has been declining since a peak in the early 2000s, driven by a combination of political opposition and the rise of cheap energy sources such as natural gas. While the global share of ==renewables=={Q12705} has very recently started to catch up, this decline in the use of nuclear power has been compensated for primarily using fossil fuels. [^10] [^13] [^19] [^23] [^29] [^30] [^42] [^44] [^51] [^52] [^54] [^59]
 
 .ve-iframe width=70% height=600px https://ourworldindata.org/explorers/energy?time=latest&facet=none&country=~OWID_WRL&hideControls=false&Total+or+Breakdown=Select+a+source&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&Select+a+source=Nuclear
 
@@ -79,56 +79,56 @@ The global stockpile of nuclear weapons also declined in the 1990s and early 200
 .ve-iframe width=70% height=600px https://ourworldindata.org/grapher/nuclear-warhead-stockpiles
 
 ## Modern-day applications of nuclear power {.cards}
-Nuclear power has a variety of uses beyond pure electricity production, many of which are derived from the byproducts of nuclear energy generation. [^15][^18]
+Nuclear power has a variety of uses beyond pure electricity production, many of which are derived from the byproducts of nuclear energy generation. [^15] [^18]
 
 ### Hydrogen production
-Nuclear power can be utilized to produce hydrogen, an increasingly important ingredient in the production of chemicals like ammonia and methanol as well as the manufacture of fuel cells. Currently, hydrogen production is dominated by fossil fuels, making nuclear power an alternative that does not produce greenhouse gas emissions. [^18][^27][^31][^43][^49]
+Nuclear power can be utilized to produce hydrogen, an increasingly important ingredient in the production of chemicals like ammonia and methanol as well as the manufacture of fuel cells. Currently, hydrogen production is dominated by fossil fuels, making nuclear power an alternative that does not produce greenhouse gas emissions. [^18] [^27] [^31] [^43] [^49]
 
 ### District heating
 .ve-media wc:District_heating.gif
-District heating systems, which allow buildings in an area to be heated from the steam or heated water produced at one or multiple nearby power plants, can use that produced by nuclear power plants. [^18][^28][^49]
+District heating systems, which allow buildings in an area to be heated from the steam or heated water produced at one or multiple nearby power plants, can use that produced by nuclear power plants. [^18] [^28] [^49]
 
 ### Desalination
 .ve-media wc:Desalination_plant_RAK.jpg caption="Desalination plant"
-The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater. [^2][^18][^49]
+The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater. [^2] [^18] [^49]
 
 ### Industrial process heating
-While many renewable energy sources can produce the heat needed for low-temperature industrial process heating, nuclear power is able to provide the high temperatures necessary for other industrial processes. [^18][^49][^57]
+While many renewable energy sources can produce the heat needed for low-temperature industrial process heating, nuclear power is able to provide the high temperatures necessary for other industrial processes. [^18] [^49] [^57]
 
 ### Radioisotope production
 .ve-media wc:Nl_mpi2.jpg caption="Myocardial perfusion scan"
-Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors. [^39][^49]
+Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors. [^39] [^49]
 
 ### Utilizing waste products
-Waste products from other industries, such as thorium and copper, have the potential to be utilized in or transformed into useful material by nuclear power. [^9][^34][^49]
+Waste products from other industries, such as thorium and copper, have the potential to be utilized in or transformed into useful material by nuclear power. [^9] [^34] [^49]
 
 ## Issues with modern nuclear power
 While nuclear power is an efficient power source with a large number of applications, it has some significant issues that have generated pushback against its use.
 
 #### Safety concerns
 .ve-media width=70% wc:Chornobyl_radiation_map.jpg right
-Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. [^10][^12][^21][^23][^30][^36][^42][^59]
+Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale. [^10] [^12] [^21] [^23] [^30] [^36] [^42] [^59]
 
-**How dangerous is nuclear power compared to other sources of energy?** Accounting for the direct and indirect deaths caused by the accidents at Chornobyl and Fukushima, nuclear power still comes out to be among the far safer sources of energy in use today, and poses no danger whatsoever when a plant runs without accident. [^6][^10][^13][^19][^23][^29][^30][^33][^36][^42][^54][^59]
+**How dangerous is nuclear power compared to other sources of energy?** Accounting for the direct and indirect deaths caused by the accidents at Chornobyl and Fukushima, nuclear power still comes out to be among the far safer sources of energy in use today, and poses no danger whatsoever when a plant runs without accident. [^6] [^10] [^13] [^19] [^23] [^29] [^30] [^33] [^36] [^42] [^54] [^59]
 .ve-iframe width=70% height=600px https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 #### Waste transportation and storage
 .ve-media width=70% wc:Transport-UNF-Japan.jpg right
-Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years. [^42][^23]
+Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years. [^42] [^23]
 
 #### Power plants and weapons
 .ve-media width=70% wc:IAEA_Uranium_Fuel_Bank_(2).jpg caption="IAEA uranium fuel bank" right
-The same materials used to power nuclear reactors-- isotopes like uranium-235 and plutonium-239-- can be used in the creation of nuclear weapons. Critics of nuclear power point to concerns that countries with uranium refining and plutonium reprocessing capabilities to make these isotopes usable for nuclear fuel can also utilize them in the development of nuclear weapons, reversing previous advancements in nuclear disarmament. [^23][^42][^56]
+The same materials used to power nuclear reactors-- isotopes like uranium-235 and plutonium-239-- can be used in the creation of nuclear weapons. Critics of nuclear power point to concerns that countries with uranium refining and plutonium reprocessing capabilities to make these isotopes usable for nuclear fuel can also utilize them in the development of nuclear weapons, reversing previous advancements in nuclear disarmament. [^23] [^42] [^56]
 
 #### Costs
-Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency. [^23][^42][^45]
+Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency. [^23] [^42] [^45]
 
 ## Innovations in nuclear energy generation
 The U.S. nuclear energy industry is dominated by the ==light water reactor (LWR)=={Q558106}, a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, several international NGOs have released reports concluding that these reactors do not offer significantly improved-- and sometimes even worse-- safety and efficiency capabilities compared to those of existing LWR designs. [^36]
 
 ## A future for nuclear power
 .ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right no-caption
-Despite the immense risks and downsides of nuclear power, it is ultimately necessary in the global fight against climate change. Nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. With this in mind, it is essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies (without letting it crowd out more preferable renewable energy sources like solar and wind). [^10][^13][^19][^29][^30][^32][^42][^44][^51][^52][^54][^59]
+Despite the immense risks and downsides of nuclear power, it is ultimately necessary in the global fight against climate change. Nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. With this in mind, it is essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies (without letting it crowd out more preferable renewable energy sources like solar and wind). [^10] [^13] [^19] [^29] [^30] [^32] [^42] [^44] [^51] [^52] [^54] [^59]
 
 # Works cited
 [^1]: Asia’s Nuclear Energy Growth | Nuclear Power Developments in Asia - World Nuclear Association. Apr. 2023, https://world-nuclear.org/information-library/country-profiles/others/asias-nuclear-energy-growth.aspx.
