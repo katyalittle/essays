@@ -116,7 +116,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 .ve-iframe width=70% height=600px https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 #### Waste transportation and storage
-.ve-media width=70% wc:Transport-UNF-Japan.jpg right
+.ve-media width=70% wc:Transport-UNF-Japan.jpg caption="Transport of nuclear waste in Japan" right
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years.
 
 #### Power plants and weapons
