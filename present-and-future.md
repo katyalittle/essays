@@ -1,8 +1,8 @@
 .ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg 
 
-## Nuclear Power and geopolitics {.cards}
+## Nuclear Power and geopoliticss
 
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident? (is it development/precaution or future concern?) {href=#}
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident? (is it development/precaution or future concern?)
 
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. 
 
@@ -55,17 +55,17 @@ Ukraine : more than half the electricity produced from NPPs.
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. 
 
-#### Is this the reason why Asia is not interested in Russian-Ukrainian war? {href=#}
+#### Is this the reason why Asia is not interested in Russian-Ukrainian war? 
 
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia).  
 
 Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. 
 
-#### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath. {href=#}
+#### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath. 
 
 As the Zaporizhzhia NPP was taken over by Russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhia does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at Fukushima for the earthquake. Disaster at Zaporizhzhia, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. 
 
-#### Ukraine’s Dam collapse  {href=#}
+#### Ukraine’s Dam collapse  
 
 The destruction of the colossal Nova Kakhovka dam is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the Black Sea.  
 
