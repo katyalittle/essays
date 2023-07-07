@@ -2,9 +2,7 @@
 
 ## Nuclear Power and geopolitics
 
-### {.tabs style=height : 600px}
-
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
+### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. 
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. If we look back some resources, it says - 
 ##### Germany {href=#} 
@@ -56,14 +54,14 @@ The Chernobyl disaster majorly impacted on Europe's perception of nuclear power.
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa Aleksievich, Svetlana. Voices from Chernobyl: The Oral History of a Nuclear Disaster. Translated by 
 
-#### Is this the reason why Asia is not interested in Russian-Ukrainian war?
+### Is this the reason why Asia is not interested in Russian-Ukrainian war?
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia).  
 Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. 
 
-#### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath.
+### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath.
 As Zaporizhzhia NPP was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhia does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at Fukushima for the earthquake. Disaster at Zaporizhzhia, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. 
 
-#### Ukraine’s Dam collapse
+### Ukraine’s Dam collapse
 The destruction of the colossal Nova Kakhovka dam is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the Black Sea.  
 
 Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region is indicating towards a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. 
