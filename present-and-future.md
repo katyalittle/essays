@@ -91,10 +91,10 @@ Nuclear power has a variety of uses beyond pure electricity production, many of 
 Nuclear power can be utilized to produce hydrogen, an increasingly important ingredient in the production of chemicals like ammonia and methanol as well as the manufacture of fuel cells. Currently, hydrogen production is dominated by fossil fuels, making nuclear power an alternative that does not produce greenhouse gas emissions.
 
 ### District heating
+.ve-media vc: District_heating.gif
 District heating systems, which allow buildings in an area to be heated from the steam or heated water produced at one or multiple nearby power plants, can use that produced by nuclear power plants.
 
 ### Desalination
-![]https://upload.wikimedia.org/wikipedia/commons/0/0d/District_heating.gif
 The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater.
 
 ### Industrial process heating
