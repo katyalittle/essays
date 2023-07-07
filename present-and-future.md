@@ -95,14 +95,14 @@ Nuclear power can be utilized to produce hydrogen, an increasingly important ing
 District heating systems, which allow buildings in an area to be heated from the steam or heated water produced at one or multiple nearby power plants, can use that produced by nuclear power plants.
 
 ### Desalination
-.ve-media wc:Desalination_plant_RAK.jpg
+.ve-media wc:Desalination_plant_RAK.jpg caption="Desalination plant"
 The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater.
 
 ### Industrial process heating
 While many renewable energy sources can produce the heat needed for low-temperature industrial process heating, nuclear power is able to provide the high temperatures necessary for other industrial processes.
 
 ### Radioisotope production
-.ve-media wc:Moderní_výpočetní_tomografie_s_přímo_digitální_detekcí_rentgenového_záření.jpg
+.ve-media wc:Ct-scan.jpg
 Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors.
 
 ### Utilizing waste products
