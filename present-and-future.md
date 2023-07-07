@@ -108,7 +108,7 @@ While nuclear power is an efficient power source with a large number of applicat
 .ve-media width=70% wc:Chornobyl_radiation_map.jpg right
 Accidents, including fatal ones, can and do happen in any industry. However, serious accidents at nuclear power plants can have consequences that extend beyond a human time scale: if significant amounts of radioactive contamination enter the environment surrounding a power plant as a result of an accident, it has the potential to disrupt food sources, endanger human health, and even render an area uninhabitable for tens of thousands of years. The accidents at Chornobyl and Fukushima are the only two nuclear accidents to have reached such a scale.
 
-**How dangerous is nuclear power compared to other sources of energy?** Accounting for the direct and indirect deaths caused by the accidents at Chornobyl and Fukushima, nuclear power still comes out to be among the far safer sources of energy in use today.
+**How dangerous is nuclear power compared to other sources of energy?** Accounting for the direct and indirect deaths caused by the accidents at Chornobyl and Fukushima, nuclear power still comes out to be among the far safer sources of energy in use today, and poses no danger whatsoever when a plant runs without accident.
 .ve-iframe width=70% height=600px https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 #### Waste transportation and storage
@@ -129,55 +129,40 @@ The U.S. nuclear energy industry is dominated by the light water reactor (LWR), 
 
 ## A future for nuclear power
 .ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right
-Despite the immense risks and downsides of nuclear power, it is ultimately necessary in the global fight against climate change. Nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a successful transition from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent catastrophic levels of warming. With this in mind, it is essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies.
+Despite the immense risks and downsides of nuclear power, it is ultimately necessary in the global fight against climate change. Nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a successful transition from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent catastrophic levels of warming. With this in mind, it is essential that governments maintain existing nuclear energy infrastructure and support its use as part of clean energy transition strategies (without letting it crowd out more preferable renewable energy sources like solar and wind).
 
 # Works cited
-[^1]: Baraniuk, Chris. “Could Nuclear Desalination Plants Beat Water Scarcity?” BBC, 21 June 2022, https://www.bbc.com/news/business-61483491.
-
-[^2]: Chung, Kyeong Woo, et al. “Solvent Extraction, Separation and Recovery of Thorium from Korean Monazite Leach Liquors for Nuclear Industry Applications.” Journal of Industrial and Engineering Chemistry, vol. 83, Mar. 2020, pp. 72–80. DOI.org (Crossref), https://doi.org/10.1016/j.jiec.2019.11.014.
-
-[^3]: Clemmer, Steve, et al. The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions. Union of Concerned Scientists, Nov. 2018, https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf.
-
-[^4]: Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks.” Brookings, 1 Mar. 2002, https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/.
-
-[^5]: EarthTalk. “How Does Cogeneration Provide Heat and Power?” Scientific American, 26 June 2008, https://www.scientificamerican.com/article/how-does-cogeneration-provide-heat-power/.
-
-[^6]: Fisher, Matt, et al. “The Use of Nuclear Power Beyond Generating Electricity: Non-Electric Applications.” International Atomic Energy Agency, 18 Oct. 2021, https://www.iaea.org/newscenter/news/the-use-of-nuclear-power-beyond-generating-electricity-non-electric-applications.
-
-[^7]: Ghosh, Padmaparna. “Nuclear Power 101.” Natural Resources Defense Council, 5 Jan. 2022, https://www.nrdc.org/stories/nuclear-power-101#plants.
-
-[^8]: Guerra, Anthony J., et al. Electric Power Grid and Natural Gas Network Operations and Coordination. Joint Institute for Strategic Energy Analysis, Sept. 2020, https://www.nrel.gov/docs/fy20osti/77096.pdf.
-
-[^8.5]: Hannah Ritchie, Max Roser and Pablo Rosado (2022) - "Energy". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy'
-
-[^9]: Hori, Masao. “Nuclear Energy for Transportation: Paths through Electricity, Hydrogen and Liquid Fuels.” Progress in Nuclear Energy, vol. 50, no. 2–6, Mar. 2008, pp. 411–16. DOI.org (Crossref), https://doi.org/10.1016/j.pnucene.2007.11.080.
-
-[^10]: International District Energy Association. “District Heating.” International District Energy Association, https://www.districtenergy.org/topics/district-heating. Accessed 6 July 2023.
-
-[^11]: International Energy Agency. Net Zero by 2050: A Roadmap for the Global Energy Sector. International Energy Agency, May 2021, https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf.
-
-[^12]: ---. The Future of Hydrogen: Seizing Today’s Opportunities. International Energy Agency, https://www.iea.org/reports/the-future-of-hydrogen. Accessed 6 July 2023.
-
-[^12.5]: Ipcc. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty. 1st ed., Cambridge University Press, 2022. DOI.org (Crossref), https://doi.org/10.1017/9781009157940.
-
-[^13]: Khalid, Farrukh, et al. “Co-Production of Hydrogen and Copper from Copper Waste Using a Thermochemical Cu–Cl Cycle.” Energy & Fuels, vol. 32, no. 2, Feb. 2018, pp. 2137–44. DOI.org (Crossref), https://doi.org/10.1021/acs.energyfuels.7b03857.
-
-[^14]: Lyman, Edwin. “Advanced” Isn’t Always Better: Assessing the Safety, Security, and Environmental Impacts of Non-Light-Water Nuclear Reactors. Union of Concerned Scientists, Mar. 2021, https://www.ucsusa.org/sites/default/files/2021-05/ucs-rpt-AR-3.21-web_Mayrev.pdf.
-
-[^15]: National Isotope Development Center. “Production Methods.” National Isotope Development Center, https://www.isotopes.gov/production-methods. Accessed 6 July 2023.
-
-[^16]: Office of Nuclear Energy. “Advantages and Challenges of Nuclear Energy.” Office of Nuclear Energy, 29 Mar. 2021, https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-energy.
-
-[^17]: Patel, Prachi. “Using Nuclear Energy to Produce Synthetic Fuels.” Institute of Electrical and Electronics (IEEE) Engineers Spectrum, 6 Apr. 2023, https://spectrum.ieee.org/synthetic-fuel#toggle-gdpr.
-
-[^18]: Potter, Brian. “Why Does Nuclear Power Plant Construction Cost So Much?” Institute for Progress, 1 May 2023, https://progress.institute/nuclear-power-plant-construction-costs/#conclusion.
-
-[^19]: Rosen, Marc A. “Nuclear Energy: Non-Electric Applications.” European Journal of Sustainable Development Research, vol. 5, no. 1, Nov. 2020, p. em0147. DOI.org (Crossref), https://doi.org/10.29333/ejosdr/9305.
-
-[^20]: Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the Pacific. International Atomic Energy Agency, 2012, https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/RBAP-HDR-2012-APHDR-TBP-18.pdf.
-
-[^21]: Union of Concerned Scientists. “How Do Nuclear Weapons Work?” Union of Concerned Scientists, 12 July 2018, https://www.ucsusa.org/resources/how-nuclear-weapons-work.
-
-[^22]: United States Environmental Protection Agency. “Renewable Industrial Process Heat.” United States Environmental Protection Agency, 6 Sept. 2022, https://www.epa.gov/rhc/renewable-industrial-process-heat.
-
-[^23]: World Nuclear Industry Status Report. World Nuclear Industry: Status Report 2022. Oct. 2022, https://www.worldnuclearreport.org/IMG/pdf/wnisr2022-v3-hr.pdf.
+  [^1]: Baraniuk, Chris. “Could Nuclear Desalination Plants Beat Water Scarcity?” BBC, 21 June 2022, https://www.bbc.com/news/business-61483491. 7/7/2023.
+  [^2]: Cao, Yiyao, et al. “Long-Term Variation of 90Sr and 137Cs in Environmental and Food Samples around Qinshan Nuclear Power Plant, China.” Scientific Reports, vol. 11, no. 1, Oct. 2021, p. 20903, https://doi.org/10.1038/s41598-021-00114-y.
+  [^1]: Chang, Ching-Chih, et al. “Measurements of 129I in the Pacific Ocean at Scripps Pier and Pacific Northwest Sites: A Search for Effects from the 2011 Fukushima Daiichi Nuclear Power Plant Accident and Hanford.” Science of The Total Environment, vol. 689, 2019, pp. 1023–29, https://doi.org/10.1016/j.scitotenv.2019.06.372.
+  [^1]: Chung, Kyeong Woo, et al. “Solvent Extraction, Separation and Recovery of Thorium from Korean Monazite Leach Liquors for Nuclear Industry Applications.” Journal of Industrial and Engineering Chemistry, vol. 83, 2020, pp. 72–80, https://doi.org/10.1016/j.jiec.2019.11.014.
+  [^1]: Clemmer, Steve, et al. The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions. Union of Concerned Scientists, Nov. 2018, https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf.
+  [^1]: Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks.” Brookings, 1 Mar. 2002, https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/.
+  [^1]: Duan, Lei, et al. “Stylized Least-Cost Analysis of Flexible Nuclear Power in Deeply Decarbonized Electricity Systems Considering Wind and Solar Resources Worldwide.” Nature Energy, vol. 7, no. 3, Feb. 2022, pp. 260–69, https://doi.org/10.1038/s41560-022-00979-x.
+  [^1]: EarthTalk. “How Does Cogeneration Provide Heat and Power?” Scientific American, 26 June 2008, https://www.scientificamerican.com/article/how-does-cogeneration-provide-heat-power/.
+  [^1]: Fisher, Matt, et al. “The Use of Nuclear Power Beyond Generating Electricity: Non-Electric Applications.” International Atomic Energy Agency, 18 Oct. 2021, https://www.iaea.org/newscenter/news/the-use-of-nuclear-power-beyond-generating-electricity-non-electric-applications.
+  [^1]: Freese, Lyssa M., et al. “Nuclear Power Generation Phase-Outs Redistribute US Air Quality and Climate-Related Mortality Risk.” Nature Energy, vol. 8, no. 5, Apr. 2023, pp. 492–503, https://doi.org/10.1038/s41560-023-01241-8.
+  [^1]: Ghosh, Padmaparna. “Nuclear Power 101.” Natural Resources Defense Council, 5 Jan. 2022, https://www.nrdc.org/stories/nuclear-power-101#plants.
+  [^1]: Guerra, Anthony J., et al. Electric Power Grid and Natural Gas Network Operations and Coordination. Joint Institute for Strategic Energy Analysis, Sept. 2020, https://www.nrel.gov/docs/fy20osti/77096.pdf.
+  [^1]: Hori, Masao. “Nuclear Energy for Transportation: Paths through Electricity, Hydrogen and Liquid Fuels.” Progress in Nuclear Energy, vol. 50, no. 2–6, 2008, pp. 411–16, https://doi.org/10.1016/j.pnucene.2007.11.080.
+  [^1]: International District Energy Association. “District Heating.” International District Energy Association, https://www.districtenergy.org/topics/district-heating. Accessed 6 July 2023.
+  [^1]: International Energy Agency. Net Zero by 2050: A Roadmap for the Global Energy Sector. International Energy Agency, May 2021, https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf.
+  [^1]: ---. Nuclear Power in a Clean Energy System. International Energy Agency, 2019, https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system.
+  [^1]: ---. The Future of Hydrogen: Seizing Today’s Opportunities. International Energy Agency, https://www.iea.org/reports/the-future-of-hydrogen. Accessed 6 July 2023.
+  [^1]: IPCC. Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty. 1st ed., Cambridge University Press, 2022, https://doi.org/10.1017/9781009157940.
+  [^1]: Karunakara, N., et al. “Quantification of Excess Carbon-14 Specific Activity in Terrestrial Biota in the off-Site Locations of the PHWR Nuclear Power Plant at Kaiga, India.” Science of The Total Environment, vol. 858, 2023, p. 159756, https://doi.org/10.1016/j.scitotenv.2022.159756.
+  [^1]: Khalid, Farrukh, et al. “Co-Production of Hydrogen and Copper from Copper Waste Using a Thermochemical Cu–Cl Cycle.” Energy & Fuels, vol. 32, no. 2, Feb. 2018, pp. 2137–44, https://doi.org/10.1021/acs.energyfuels.7b03857.
+  [^1]: Lyman, Edwin. “Advanced” Isn’t Always Better: Assessing the Safety, Security, and Environmental Impacts of Non-Light-Water Nuclear Reactors. Union of Concerned Scientists, Mar. 2021, https://www.ucsusa.org/sites/default/files/2021-05/ucs-rpt-AR-3.21-web_Mayrev.pdf.
+  [^1]: National Isotope Development Center. “Production Methods.” National Isotope Development Center, https://www.isotopes.gov/production-methods. Accessed 6 July 2023.
+  [^1]: Office of Nuclear Energy. “Advantages and Challenges of Nuclear Energy.” Office of Nuclear Energy, 29 Mar. 2021, https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-energy.
+  [^1]: Patel, Prachi. “Using Nuclear Energy to Produce Synthetic Fuels.” Institute of Electrical and Electronics (IEEE) Engineers Spectrum, 6 Apr. 2023, https://spectrum.ieee.org/synthetic-fuel#toggle-gdpr.
+  [^1]: Potter, Brian. “Why Does Nuclear Power Plant Construction Cost So Much?” Institute for Progress, 1 May 2023, https://progress.institute/nuclear-power-plant-construction-costs/#conclusion.
+  [^1]: Rosen, Marc A. “Nuclear Energy: Non-Electric Applications.” European Journal of Sustainable Development Research, vol. 5, no. 1, Nov. 2020, p. em0147, https://doi.org/10.29333/ejosdr/9305.
+  [^1]: Severnini, Edson. “Impacts of Nuclear Plant Shutdown on Coal-Fired Power Generation and Infant Health in the Tennessee Valley in the 1980s.” Nature Energy, vol. 2, no. 4, Apr. 2017, p. 17051, https://doi.org/10.1038/nenergy.2017.51.
+  [^1]: Sovacool, Benjamin K., et al. “Differences in Carbon Emissions Reduction between Countries Pursuing Renewable Electricity versus Nuclear Power.” Nature Energy, vol. 5, no. 11, Oct. 2020, pp. 928–35, https://doi.org/10.1038/s41560-020-00696-3.
+  [^1]: ---. “Reply to: Nuclear Power and Renewable Energy Are Both Associated with National Decarbonization.” Nature Energy, vol. 7, no. 1, Jan. 2022, pp. 30–31, https://doi.org/10.1038/s41560-021-00965-9.
+  [^1]: Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the Pacific. International Atomic Energy Agency, 2012, https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/RBAP-HDR-2012-APHDR-TBP-18.pdf.
+  [^1]: Union of Concerned Scientists. “How Do Nuclear Weapons Work?” Union of Concerned Scientists, 12 July 2018, https://www.ucsusa.org/resources/how-nuclear-weapons-work.
+  [^1]: United States Environmental Protection Agency. “Renewable Industrial Process Heat.” United States Environmental Protection Agency, 6 Sept. 2022, https://www.epa.gov/rhc/renewable-industrial-process-heat.
+  [^1]: Wai, Ka-Ming, et al. “External Cesium-137 Doses to Humans from Soil Influenced by the Fukushima and Chernobyl Nuclear Power Plants Accidents: A Comparative Study.” Scientific Reports, vol. 10, no. 1, May 2020, p. 7902, https://doi.org/10.1038/s41598-020-64812-9.
+  [^1]: World Nuclear Industry Status Report. World Nuclear Industry: Status Report 2022. Oct. 2022, https://www.worldnuclearreport.org/IMG/pdf/wnisr2022-v3-hr.pdf.
